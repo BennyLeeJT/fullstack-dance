@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class AcdanceAppConfig(AppConfig):
+class DanceAppConfig(AppConfig):
     name = 'dance_app'
