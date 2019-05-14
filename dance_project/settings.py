@@ -26,7 +26,7 @@ SECRET_KEY = '%m_uy-(m^gz_cr0l^*1$qz-gsxx_c%3=d+rcqyq&k6gc(vsc)_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["full-stack-assignment4-roczi.c9users.io"]
+ALLOWED_HOSTS = ["full-stack-assignment4-roczi.c9users.io", "roczi-dance-app.herokuapp.com"]
 
 
 # Application definition
