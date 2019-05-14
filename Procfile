@@ -1,1 +1,1 @@
-web: gunicorn dance_app.wsgi:application
+web: gunicorn dance_project.wsgi:application
